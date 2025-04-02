@@ -1,0 +1,9 @@
+C:\Users\Diego Andres\source\repos\SistemaPOS\Modelo\bin\Debug\Modelo.dll
+C:\Users\Diego Andres\source\repos\SistemaPOS\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Diego Andres\source\repos\SistemaPOS\Modelo\bin\Debug\Comun.dll
+C:\Users\Diego Andres\source\repos\SistemaPOS\Modelo\bin\Debug\Comun.pdb
+C:\Users\Diego Andres\source\repos\SistemaPOS\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\Diego Andres\source\repos\SistemaPOS\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Diego Andres\source\repos\SistemaPOS\Modelo\obj\Debug\Modelo.csproj.Up2Date
+C:\Users\Diego Andres\source\repos\SistemaPOS\Modelo\obj\Debug\Modelo.dll
+C:\Users\Diego Andres\source\repos\SistemaPOS\Modelo\obj\Debug\Modelo.pdb
