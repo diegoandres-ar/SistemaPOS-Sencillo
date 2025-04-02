@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d40a342dbb8942318c9268a1733d4a77" Name="Diagram1">
+        <EntityTypeShape EntityType="Model.Categorias" Width="1.5" PointX="7.75" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Clientes" Width="1.5" PointX="3" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Facturas" Width="1.5" PointX="5.25" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Items" Width="1.5" PointX="12.25" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Productos" Width="1.5" PointX="10" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Roles" Width="1.5" PointX="0.75" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.TiposDocumento" Width="1.5" PointX="0.75" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Usuarios" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="Model.FK_Productos_Categorias" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Cliente_TipoDocumento" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Facturas_Clientes" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Facturas_Usuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Items_Productos" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Usuarios_Roles" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Usuarios_TiposDocumento" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
