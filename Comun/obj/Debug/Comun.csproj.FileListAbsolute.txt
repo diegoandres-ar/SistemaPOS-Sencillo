@@ -1,0 +1,6 @@
+C:\Users\Diego Andres\source\repos\SistemaPOS\Comun\bin\Debug\Comun.dll
+C:\Users\Diego Andres\source\repos\SistemaPOS\Comun\bin\Debug\Comun.pdb
+C:\Users\Diego Andres\source\repos\SistemaPOS\Comun\obj\Debug\Comun.csproj.AssemblyReference.cache
+C:\Users\Diego Andres\source\repos\SistemaPOS\Comun\obj\Debug\Comun.csproj.CoreCompileInputs.cache
+C:\Users\Diego Andres\source\repos\SistemaPOS\Comun\obj\Debug\Comun.dll
+C:\Users\Diego Andres\source\repos\SistemaPOS\Comun\obj\Debug\Comun.pdb
