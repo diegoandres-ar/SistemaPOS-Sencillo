@@ -54,6 +54,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Contexto\DbConexion.cs" />
+    <Compile Include="Metadatos\Categorias.cs" />
+    <Compile Include="Metadatos\Clientes.cs" />
+    <Compile Include="Metadatos\Facturas.cs" />
+    <Compile Include="Metadatos\Items.cs" />
+    <Compile Include="Metadatos\Productos.cs" />
+    <Compile Include="Metadatos\Roles.cs" />
+    <Compile Include="Metadatos\TiposDocumento.cs" />
+    <Compile Include="Metadatos\Usuarios.cs" />
     <Compile Include="Modelos\Categorias.cs">
       <DependentUpon>Model.tt</DependentUpon>
     </Compile>
